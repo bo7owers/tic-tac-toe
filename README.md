@@ -1,4 +1,4 @@
-#Learning React
+# Learning React
 
 this project is my first game using react
 
